@@ -1,17 +1,14 @@
-# Implementation of: Temporal Causal Modeling with Graphical Granger Methods
+# Graphical Granger Methods
 
-This is a survey paper looking at various methods of find stucture within time series data. 
+Reviewing granger causality and methods to extract structure. 
 
-### Paper Outline
+### Outline
 
 * Section 1: Overview
-* Section 2: Prelims
-* Section 3: Considered Methods
+* Section 2: Data Generation and Evaluation
+* Section 3: Structural  Methods
     * Exhaustive Seardh
     * LASSO
     * SIN
     * VAR
-* Section 4: Evaluations
-    * Data Generation: 
-* Section 5: Experimental Results
-* Section 6: Conclusions
+    * Non-Linear Methods
